@@ -1,3 +1,6 @@
+ *   Authors: Daniel Pereira de Carvalho <daniel.carvalho@ufu.br>
+ *            Marcelo Barros de Almeida  <marcelo.barros@ufu.br>
+
 #define SRAM_START  0x20000000U                  /* Inicio da SRAM CORTEX-M */
 #define SRAM_SIZE   (128U * 1024U)               /* Tam. SRAM STM32F411 128K */
 #define SRAM_END    ((SRAM_START) + (SRAM_SIZE)) /* Final da SRAM STM32F411 */
