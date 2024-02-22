@@ -1,3 +1,6 @@
+ *   Authors: Daniel Pereira de Carvalho <daniel.carvalho@ufu.br>
+ *            Marcelo Barros de Almeida  <marcelo.barros@ufu.br>
+
 #include <stdlib.h>
 
 int main(int argc, char *argv[])
